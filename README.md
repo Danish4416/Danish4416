@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 &nbsp;
 <img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=Repos&color=6C63FF&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanish4416" alt="Total public repos" />
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?style=flat&logo=github&label=Followers&color=6C63FF&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanish4416" alt="Followers" />
+<img src="https://img.shields.io/github/followers/danish4416?style=flat&logo=github&label=Followers&color=6C63FF" alt="Followers" />
 
 </div>
 
