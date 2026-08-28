@@ -1,278 +1,171 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Danish4416/Danish4416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Danish%20Ansari%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&desc=AI%20%2F%20ML%20%2F%20Generative%20AI%20Engineer&descAlignY=62&descSize=18" alt="Header banner" width="100%"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi, I'm Danish Ansari
-
-<h3 align="center">
-AI Engineer | Machine Learning | Generative AI | FinTech
-</h3>
-
-<p align="center">
-  <i>Building intelligent systems and continuously exploring the intersection of AI, data, and finance.</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/danish4416">
-    <img src="https://komarev.com/ghpvc/?username=danish4416&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/danish4416?tab=followers">
-    <img src="https://img.shields.io/github/followers/danish4416?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a **B.Tech Data Science student** focused on building practical AI systems across:
-
-* 🤖 **Machine Learning & Deep Learning**
-* ✨ **Generative AI & RAG**
-* 🧩 **AI Agents & LLM Applications**
-* 💼 **FinTech AI**
-* 📊 **Data Science & Analytics**
-* 🚀 **MLOps & AI Deployment**
-
-I enjoy turning ideas into **end-to-end AI applications** — from data preprocessing and model development to deployment and user-facing applications.
-
-> **My goal:** Build reliable AI systems that solve real-world problems.
-
----
-
-## 🚀 Currently Working On
-
-🔭 **RAG Document Assistant**
-A Retrieval-Augmented Generation application for interacting with uploaded documents using LLMs, embeddings and vector databases.
-
-🌱 Currently learning:
-
-`Generative AI` • `LangChain` • `RAG` • `AI Agents` • `MLOps`
-
-👯 Open to collaborating on:
-
-`Generative AI` • `RAG` • `LLM Applications` • `AI Agents`
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 AI / Machine Learning
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-</p>
-
-### ✨ Generative AI
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40" alt="LangChain"/>
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40" alt="ChromaDB"/>
-</p>
-
-**Technologies:**
-`LangChain` • `RAG` • `LLMs` • `Embeddings` • `Vector Databases` • `Prompt Engineering` • `AI Agents`
-
-### 📊 Data & Databases
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-</p>
-
-`SQL` • `MySQL` • `PostgreSQL` • `Pandas` • `NumPy` • `Statistics`
-
-### 🌐 Development & Deployment
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-</p>
-
-`Git` • `GitHub` • `Streamlit` • `Flask` • `FastAPI` • `REST APIs` • `MLOps`
-
----
-
-# 🌟 Featured Projects
-
-### 🤖 RAG Document Assistant
-
-A Retrieval-Augmented Generation application that allows users to upload documents and ask questions using an LLM-powered question-answering pipeline.
-
-**Tech:** `Python` `LangChain` `Mistral AI` `ChromaDB` `Embeddings` `Streamlit`
-
-🔗 **Live Demo:**
-https://rag-document-assistant-system.streamlit.app/
-
-🔗 **Source Code:**
-https://github.com/Danish4416/rag-document-assistant
-
----
-
-### ☀️ Solar Panel Defect Detection
-
-Deep Learning computer vision system for detecting defects in solar panels.
-
-**Classes:**
-`Bird-drop` • `Clean` • `Dusty` • `Physical-Damage`
-
-**Model:** ResNet50
-
-**Test Accuracy:** `87%`
-**Macro F1:** `0.86`
-
-🔗 **Source Code:**
-https://github.com/Danish4416/solar-panel-defect-detection
-
----
-
-### 💳 Health Insurance Premium Prediction
-
-End-to-end Machine Learning application for predicting annual health insurance premiums.
-
-**Models:** `Linear Regression` • `XGBoost`
-
-**Best Model R²:** `98.00%`
-
-🔗 **Live Demo:**
-https://healthcare-project-premium-prediction.streamlit.app/
-
----
-
-## 📌 More Projects
-
-You can explore my complete project portfolio here:
-
-<p align="center">
-<a href="https://codebasics.io/portfolio/Danish-Ansari">
-<img src="https://img.shields.io/badge/🚀%20My%20Portfolio-Visit%20Portfolio-blue?style=for-the-badge"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danish4416&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish4416&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=danish4416&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish4416&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danish4416&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 📚 What I'm Exploring
-
-```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Generative AI
-      ↓
-RAG & LLM Applications
-      ↓
-AI Agents
-      ↓
-MLOps
-      ↓
-FinTech AI
-      ↓
-Fraud Detection → Risk Modeling → Explainable AI
-```
-
----
-
-# 💡 Areas of Interest
-
-`Artificial Intelligence`
-`Generative AI`
-`Machine Learning`
-`Deep Learning`
-`Computer Vision`
-`Natural Language Processing`
-`RAG Systems`
-`AI Agents`
-`FinTech`
-`Fraud Detection`
-`Credit Risk`
-`Explainable AI`
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/danish4416">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+Systems+that+matter;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;RAG+%7C+LangChain+%7C+AI+Agents+%7C+MLOps;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </a>
 
-<a href="https://kaggle.com/danishdrx">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://codebasics.io/portfolio/Danish-Ansari">
-<img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=danish4416&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repos&color=6C63FF&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdanish4416" alt="Total public repos" />
+<img src="https://img.shields.io/github/followers/danish4416?style=for-the-badge&logo=github&label=Followers&color=6C63FF" alt="Followers" />
 
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **[RAG Document Assistant](https://rag-document-assistant-system.streamlit.app/)**
+- 🌱 I'm currently learning **Generative AI • LangChain • RAG • AI Agents • MLOps**
+- 👯 I'm looking to collaborate on **Generative AI & RAG projects**
+- 👨‍💻 All of my projects are available at **[codebasics.io/portfolio/Danish-Ansari](https://codebasics.io/portfolio/Danish-Ansari)**
+- 💬 Ask me about **Python • SQL • Maths & Statistics • Machine Learning • Deep Learning • Computer Vision**
+- 📫 How to reach me: **danishansari2123786@gmail.com**
+- ⚡ Fun fact: I enjoy turning messy data into working, deployed products
+
+<br/>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/danishansari4416" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://kaggle.com/danishdrx" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="mailto:danishansari2123786@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://codebasics.io/portfolio/Danish-Ansari" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-📫 **Email:** `danishansari2123786@gmail.com`
+<br/>
 
----
+## 🛠️ Languages & Tools
 
-<p align="center">
-  <i>"Building intelligent systems, one project at a time."</i>
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Seaborn-9CB3D5?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="180" src="https://streak-stats.demolab.com/?user=danish4416&theme=radical&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF&stroke=6C63FF" alt="Danish's GitHub streak stats" />
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 [RAG Document Assistant](https://rag-document-assistant-system.streamlit.app/)**
+<br/>An AI assistant that answers questions grounded in your own documents using retrieval-augmented generation.
+<br/>`LangChain` `RAG` `Streamlit` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+**🔗 [Malicious URL Detector](https://github.com/Danish4416/malicious-url-detector)**
+<br/>Production-ready malicious URL detection system with TF-IDF feature engineering, explainable AI, and a deployed interactive dashboard.
+<br/>`FastAPI` `Logistic Regression` `TF-IDF` `XAI`
+<br/>
+<img src="https://img.shields.io/github/stars/Danish4416/malicious-url-detector?style=flat&color=6C63FF&label=%E2%AD%90" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/Danish4416/malicious-url-detector?style=flat&color=6C63FF" alt="top language"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 [ML Healthcare Premium Prediction](https://github.com/Danish4416/Ml_healthcare_premium_prediction)**
+<br/>Predicts health insurance premiums from applicant data using a trained ML model.
+<br/>`Python` `scikit-learn` `Jupyter`
+<br/>
+<img src="https://img.shields.io/github/stars/Danish4416/Ml_healthcare_premium_prediction?style=flat&color=6C63FF&label=%E2%AD%90" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/Danish4416/Ml_healthcare_premium_prediction?style=flat&color=6C63FF" alt="top language"/>
+
+</td>
+<td width="50%" valign="top">
+
+**💳 [Credit Card Customer Segmentation](https://github.com/Danish4416/credit-card-customer-segmentation)**
+<br/>Clusters credit card holders by spending behavior to power targeted marketing insights.
+<br/>`Python` `Clustering` `Pandas`
+<br/>
+<img src="https://img.shields.io/github/stars/Danish4416/credit-card-customer-segmentation?style=flat&color=6C63FF&label=%E2%AD%90" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/Danish4416/credit-card-customer-segmentation?style=flat&color=6C63FF" alt="top language"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📈 [ML Credit Risk Model](https://github.com/Danish4416/ml-project-credit-risk-model)**
+<br/>A classification model that scores loan applicants by credit risk.
+<br/>`Python` `scikit-learn`
+<br/>
+<img src="https://img.shields.io/github/stars/Danish4416/ml-project-credit-risk-model?style=flat&color=6C63FF&label=%E2%AD%90" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/Danish4416/ml-project-credit-risk-model?style=flat&color=6C63FF" alt="top language"/>
+
+</td>
+<td width="50%" valign="top">
+
+**🚗 [Vehicle Damage Detection](https://github.com/Danish4416/vehicle-damage-detection)**
+<br/>Computer vision model that detects and classifies vehicle damage from images.
+<br/>`OpenCV` `Deep Learning`
+<br/>
+<img src="https://img.shields.io/github/stars/Danish4416/vehicle-damage-detection?style=flat&color=6C63FF&label=%E2%AD%90" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/Danish4416/vehicle-damage-detection?style=flat&color=6C63FF" alt="top language"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☀️ [Solar Panel Defect Detection](https://github.com/Danish4416/solar-panel-defect-detection)**
+<br/>Computer vision pipeline for spotting defects in solar panel imagery.
+<br/>`OpenCV` `Deep Learning`
+<br/>
+<img src="https://img.shields.io/github/stars/Danish4416/solar-panel-defect-detection?style=flat&color=6C63FF&label=%E2%AD%90" alt="stars"/>
+<img src="https://img.shields.io/github/languages/top/Danish4416/solar-panel-defect-detection?style=flat&color=6C63FF" alt="top language"/>
+
+</td>
+<td width="50%" valign="top">
+
+**📬 More on my portfolio**
+<br/>Every project, write-up, and case study lives at codebasics.io.
+<br/>
+<a href="https://codebasics.io/portfolio/Danish-Ansari"><img src="https://img.shields.io/badge/View_Full_Portfolio-6C63FF?style=for-the-badge" alt="Portfolio"/></a>
+
+</td>
+</tr>
+</table>
+
+> 📝 A couple of these repos don't have a description on GitHub yet — add one to each repo's "About" section so it shows up nicely on your profile and in search.
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer banner" width="100%"/>
+
+**Thanks for stopping by — always open to a chat about Generative AI, RAG, or MLOps! 🚀**
+
+</div>
