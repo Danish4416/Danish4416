@@ -82,15 +82,20 @@ Here are some ideas to get you started:
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=danish4416&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&cache_seconds=86400" alt="Danish's GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=danish4416&theme=radical&hide_border=true&background=1a1b27&ring=6C63FF&fire=6C63FF" alt="Danish's GitHub streak" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Danish4416/Danish4416/main/metrics.svg" alt="Danish's GitHub stats, top languages, and contribution activity" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish4416&layout=compact&theme=radical&hide_border=true&title_color=6C63FF&cache_seconds=86400" alt="Top languages" width="48%"/>
 </div>
 
+<br/>
+
+## 📈 Contribution Activity
+
 <div align="center">
-<img src="https://ghchart.rshah.org/6C63FF/danish4416" alt="Danish's GitHub commit graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=danish4416&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
 </div>
 
 <br/>
@@ -98,7 +103,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<a href="https://github-profile-trophy.vercel.app/?username=danish4416" target="_blank"><img src="https://img.shields.io/badge/🏆_View_My_GitHub_Trophies-6C63FF?style=for-the-badge" alt="View GitHub Trophies"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=danish4416&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
 <br/>
