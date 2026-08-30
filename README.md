@@ -2,9 +2,7 @@
 <h3 align="center">AI / ML / Generative AI Engineer — turning data into deployed products</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+GenAI;RAG+%7C+LangChain+%7C+AI+Agents+%7C+MLOps;Always+learning%2C+always+shipping." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Machine+Learning+%7C+Deep+Learning+%7C+GenAI;RAG+%7C+LangChain+%7C+AI+Agents+%7C+MLOps;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </p>
 
 <p align="center">
