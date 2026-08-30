@@ -74,23 +74,16 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="70%" align="center">
-      <h3>📈 Contribution Activity</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=danish4416&theme=tokyo-night&hide_border=true&area=true&height=180" alt="Contribution Activity" width="100%" />
-    </td>
-    <td width="30%" align="center">
+    <td width="34%" align="center">
       <h3>📌 Overview</h3>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danish4416&theme=tokyonight" alt="GitHub Overview" width="100%" />
     </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
+      <h3>🗂️ By Repository</h3>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danish4416&theme=tokyonight" alt="Languages by Repository" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
+      <h3>💻 By Commit</h3>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danish4416&theme=tokyonight" alt="Languages by Commit" width="100%" />
     </td>
   </tr>
