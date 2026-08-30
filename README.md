@@ -45,7 +45,6 @@
   <img height="42" style="vertical-align:middle" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" title="Seaborn"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" title="Flask"/>
   <img src="https://img.shields.io/badge/-%20-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI"/>
   <img src="https://img.shields.io/badge/-%20-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" title="Streamlit"/>
   <img src="https://img.shields.io/badge/-%20-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" title="Jupyter"/>
